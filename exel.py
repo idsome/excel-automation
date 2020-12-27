@@ -21,5 +21,6 @@ for raw in range(1 ,6):
             l.value =c.value
 #this line saves the new workbook in the same location as this code 
 wb2.save(filename='book2.xlsx')
+print('done')
 
     
